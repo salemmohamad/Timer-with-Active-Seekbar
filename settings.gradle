@@ -1,0 +1,2 @@
+rootProject.name='eggtimer'
+include ':app'
